@@ -8,5 +8,5 @@ Texto de prueba
     * Elemento 4
 
 
-* Mostrar datos
+* Imágen de ejemplo
 <img src="imagen.jpg">
